@@ -1,2 +1,2 @@
 #!/bin/bash
-mv "$file" /tmp/u
+for file in *; do [ "$file" == [A-Z]* ] && mv "$file" /tmp/u; done
