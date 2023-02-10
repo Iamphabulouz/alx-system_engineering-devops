@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo find . -type f -user guillaume -name hello -exec chown betty 
