@@ -1,2 +1,2 @@
 #!/bin/bas
-rm -R *.js
+rm -f *.js
