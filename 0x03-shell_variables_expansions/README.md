@@ -17,3 +17,9 @@ fifth commit is used to write a script that lists environment variables.
 
 ## sixth commit
 sixth commit writes a script that lists all local variables and environment variables, and functions.
+
+## seventh commit
+seventh commit writes a script that creates a new local variable
+
+## eighth commit
+eighth commit wries a script that creates a new global variable
