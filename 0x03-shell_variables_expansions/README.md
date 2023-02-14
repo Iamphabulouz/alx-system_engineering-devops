@@ -11,3 +11,6 @@ third commit writes a script add /action to PATH.
 
 ## fourth commit
 fourth commit writes a script that counts the number of directories in the PATH.
+
+## fifth commit
+fifth commit is used to write a script that lists environment variables.
