@@ -14,3 +14,6 @@ fourth commit writes a script that counts the number of directories in the PATH.
 
 ## fifth commit
 fifth commit is used to write a script that lists environment variables.
+
+## sixth commit
+sixth commit writes a script that lists all local variables and environment variables, and functions.
