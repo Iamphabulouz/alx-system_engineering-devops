@@ -1,0 +1,3 @@
+#!/bin/bash
+num_dirs=$(echo -n "$path_var" | wc -l)
+
