@@ -1,2 +1,2 @@
 #!/bin/bash
-num_dirs=$(echo -n "$path_var" | wc -l)
+echo "Number of directories in PATH: $num_dirs"
